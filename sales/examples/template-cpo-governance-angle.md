@@ -1,28 +1,31 @@
 ---
-name: lily-sabrina-kuang-abdullah-controls-angle
-description: LinkedIn outreach message for Lily Sabrina Kuang Abdullah (CPO at Takaful Malaysia) using controls/governance angle instead of onboarding. Malaysian spoken CTA pattern. Tier 2 — human review required before sending.
+name: template-cpo-architect-governance-angle
+description: LinkedIn outreach message template for CPO/People Architect level prospects focused on governance/controls. Uses placeholder data. Malaysian spoken CTA pattern. Tier 2 — human review required before sending.
+⚠️ NOTE: This is a TEMPLATE with anonymised data. Never store real personal information from public profiles in code repositories.
 target_prospect: |
-  Name: Lily Sabrina Kuang Abdullah
-  Title: Chief People Officer
-  Company: Takaful Malaysia
-  Location: Malaysia
-  Size: 500+ staff
-  Focus areas: Transformation, governance, people strategy, leadership shifts, controls, capability building
-derived_from: Example 3 in cold-outreach skill v1.0
+  [PLACEHOLDER] Replace with actual prospect name and details when using
+  Example structure:
+  - Name: [Prospect Full Name]
+  - Title: [Job Title]
+  - Company: [Company Name]
+  - Industry: [Industry]
+  - Size: [Employee count]
+  - Focus: [Their stated focus from LinkedIn/bio]
+derived_from: Template based on cold-outreach skill v1.0 patterns
 framework_version: cold-outreach v1.0
 created: 2026-05-04
-updated: 2026-05-04 (controls angle revision)
+status: template_only_do_not_use_with_real_data
 ---
 
-# Outreach Draft — Lily Sabrina Kuang Abdullah (Controls Angle)
+# Outreach Template — CPO/Architect Governance Angle
 
 ## Prospect Profile
 
 | Field | Detail |
 |---|---|
-| **Name** | Lily Sabrina Kuang Abdullah |
-| **Title** | Chief People Officer |
-| **Company** | Takaful Malaysia |
+| **Name** | [PROSPECT NAME] |
+| **Title** | [JOB TITLE, e.g., Chief People Officer / People Architect] |
+| **Company** | [COMPANY NAME] |
 | **Industry** | Takaful/Insurance |
 | **Size** | 500+ staff |
 | **Focus** | Leadership transitions, capability building, governance, controls |
