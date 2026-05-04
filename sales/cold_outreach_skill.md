@@ -371,6 +371,7 @@ Pick one. Never mix two.
 | `Reply "yes" if this is a priority right now.` | End of quarter urgency |
 | `Want me to send a 3-minute breakdown?` | Product needs slight explanation |
 | `Open to seeing how this works?` | Tech-curious prospect |
+| `If this is worth the try just leave me a message.` | Casual Malaysian spoken English—more human, less formal
 
 **Never use:**
 Calendly · "15-minute call" · "Can we schedule" · "Let me know when free" · "I'd love to connect"
@@ -539,3 +540,66 @@ When the prospect IS the training expert — do not pitch training. Pivot to the
 | Academy or business owner | Lost opportunity — people who showed interest but disappeared |
 | Senior leader (Director, CPO, C-suite) | Speed of org response — "how fast can the business get there" beats "how do you know the gap" or "how do you prove ROI" |
 | Expert (HRDC Accredited Trainer, seasoned HR) | Respect their knowledge — skip the education, speak peer to peer |
+| CPO/People Leader (controls/governance focus) | Audit trail, evidence control, traceable approvals—not training talk |
+
+
+---
+
+### Example 3 — Lily Sabrina Kuang Abdullah (CPO, GLC, controls focus)
+
+**Prospect:** Lily Sabrina Kuang Abdullah · Chief People Officer · Takaful Malaysia · 500+ staff · Takaful/Insurance
+
+```
+Subject: Controls gap at Takaful Malaysia's HR
+
+Hello Lily,
+
+Most Chief People Officers I speak to say their approval 
+evidence lives in WhatsApp and email instead of one place.
+
+AI routes every approval into a traceable workflow so Finance 
+and auditors can open the file and see who approved what and when.
+
+We train any departments to use these tools and we're HRD Corp 
+certified, so your existing levy covers it.
+
+If this is worth the try just leave me a message.
+
+— Aiman, Nexor AI
+```
+Word count: 76 ✅ · Humanizer: 🟢 · Tier 2 ⚠️
+
+**Why this version wins over onboarding angle:**
+
+Learning 1 — CPOs care about controls, not training sessions
+Lily's LinkedIn says "stabilising leadership shifts, strengthening controls and building capability." The controls angle ("approval evidence") directly matches her language. Onboarding is L&D talk; controls is CPO talk.
+
+Learning 2 — Names the actual problem without judgment
+"Approval evidence lives in WhatsApp and email instead of one place" — factual statement, no blame. Every CPO knows this is true but never says it out loud. Naming it makes them feel seen.
+
+Learning 3 — Outcome speaks audit/Finance language
+"So Finance and auditors can open the file and see who approved what and when" — speaks to governance and compliance concerns that matter at GLC level. This is not about saving time; it's about meeting audit requirements.
+
+Learning 4 — Malaysian spoken CTA beats formal CTA
+"Reply yes if this is worth a look." → "If this is worth the try just leave me a message."
+The second version sounds like something you'd actually say to someone. It's casual but still professional. Malaysian business culture prefers this register over rigid templates.
+
+Learning 5 — Scope broadening line earns its place
+"We train any departments to use these tools" — same structure as Fee Ling Haw and Al-Irwan examples. Confirmed pattern that opens multi-department conversation without adding word count.
+
+---
+
+### Learning Summary — What Makes Writing Feel Human
+
+Pattern learned from Lily draft vs original onboarding draft:
+
+| Original | Updated | Why It Works |
+|---|---|---|
+| "one controlled place" | "one place" | Simpler word = more natural |
+| "when" at end | "what and when" at end | Slightly longer rhythm feels conversational |
+| "Reply yes if this is useful" | "If this is worth the try just leave me a message" | Malaysian spoken English, less stiff |
+| "on-site through Nexor AI Institute" | "any departments to use these tools" + delivery mode implied | Opens door beyond HR, more flexible |
+
+Rule: If you cannot picture the sentence being said out loud in a KL office conversation, rewrite it.
+
+---
