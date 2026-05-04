@@ -156,11 +156,19 @@ Standard format with word count, humanizer score, and Tier 2 flag.
 ### PHASE 8 — FOLLOW-UP & CRM
 
 Single emails rarely close deals. All activity must be logged in a CRM.
-1. **CRM Logging**: Log the prospect, the angle sent, and the date in the CRM.
-2. **Follow-Up Cadence**: If no reply after 4 days, generate a follow-up email.
-3. **Follow-Up Rule**: Never send "just bubbling this up" or "touching base". Every follow-up must either:
-   - Provide a new, concrete insight or resource (e.g., an article, a quick observation).
-   - Pivot to a secondary pain point from `workflowskill` if the primary pain point missed the mark.
+
+**1. The Follow-Up Cadence:**
+- **Day 1:** Initial Outreach (Blunt + Human Touch)
+- **Day 4:** The Value-Add Follow-Up
+- **Day 9:** The Pain-Pivot Follow-Up
+- **Day 14:** The Break-Up Follow-Up
+
+**2. Follow-Up Rules:**
+- Never send "just bubbling this up" or "touching base".
+- Always use the specific formulas from `cold-outreach` STEP 8.
+
+**3. CRM Logging:**
+- After every email generation, run the `crm` skill to generate a structured block of data for the user to copy/paste directly into their CRM (Zoho/HubSpot).
 
 ---
 
