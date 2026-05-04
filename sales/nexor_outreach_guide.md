@@ -75,6 +75,11 @@ Check human texture. Score must be 🟢.
 PHASE 7 — DELIVER [cold-outreach]
 Output in standard format.
 Flag Tier 2 — human review required.
+     │
+     ▼
+PHASE 8 — FOLLOW-UP & CRM [workflowskill / cold-outreach]
+Log email sent in CRM.
+If no reply after 4 days, generate follow-up adding new value.
 ```
 
 ---
@@ -126,13 +131,13 @@ Follow the 5-part skeleton:
 — [Name], Nexor AI
 ```
 
-Apply all 7 guardrails while writing:
-No em-dashes · No bio quoting · 5th grade language · No assumptions as facts · Hook to outcome connected · AI named · No Nexor banned words
+Apply all 10 guardrails while writing:
+No em-dashes · No bio quoting · 5th grade language · No assumptions as facts · Hook to outcome connected · AI named · No Nexor banned words · Spoken not written · No constructed benefit sentences · One human hedge
 
 ### PHASE 5 — QUALITY CHECK
 
-Run all 15 checklist items. Do not proceed until all pass.
-Most common failures: word count over 65 · passive voice in outcome · Nexor banned word in body · em-dash in friction remover
+Run all checklist items. Do not proceed until all pass.
+Most common failures: padding to hit word count · constructed benefit sentences · passive voice in outcome · Nexor banned word in body · too confident (no hedge)
 
 ### PHASE 6 — HUMANIZER PASS
 
@@ -148,6 +153,15 @@ Score target: 🟢 under 25.
 
 Standard format with word count, humanizer score, and Tier 2 flag.
 
+### PHASE 8 — FOLLOW-UP & CRM
+
+Single emails rarely close deals. All activity must be logged in a CRM.
+1. **CRM Logging**: Log the prospect, the angle sent, and the date in the CRM.
+2. **Follow-Up Cadence**: If no reply after 4 days, generate a follow-up email.
+3. **Follow-Up Rule**: Never send "just bubbling this up" or "touching base". Every follow-up must either:
+   - Provide a new, concrete insight or resource (e.g., an article, a quick observation).
+   - Pivot to a secondary pain point from `workflowskill` if the primary pain point missed the mark.
+
 ---
 
 ## DECISION TREES
@@ -157,33 +171,44 @@ Standard format with word count, humanizer score, and Tier 2 flag.
 C-suite or Director level?
 ├── YES → "Hello [Name],"
 └── NO
-    Casual informal LinkedIn posts?
-    ├── YES → "Hey [Name]," (sparingly)
-    └── NO → "Hi [Name]," (default)
+    Short, direct email?
+    ├── YES → "[Name]," (name only — feels like a real message)
+    └── NO
+        Casual informal LinkedIn posts?
+        ├── YES → "Hey [Name]," (sparingly)
+        └── NO → "Hi [Name]," (default)
 ```
 
 ### Which Hook Formula?
 ```
-Know their title + can name their daily frustration?
-├── YES → Formula 1 (Title + Daily Reality)
+Can you ask one specific question about their daily workflow?
+├── YES → Formula 6 (Direct Question) — PREFERRED
 └── NO
-    Specific company event (expansion, new contract)?
-    ├── YES → Formula 2 (Company Context + Consequence)
+    Know their title + can name their daily frustration?
+    ├── YES → Formula 1 (Title + Daily Reality)
     └── NO
-        Industry pain strong and universal?
-        ├── YES → Formula 3 (Industry Observation)
-        └── NO → Ask user for more context
+        Specific company event (expansion, new contract)?
+        ├── YES → Formula 2 (Company Context + Consequence)
+        └── NO
+            Industry pain strong and universal?
+            ├── YES → Formula 5 (Abrupt Observation)
+            └── NO → Ask user for more context
+
+⚠️ Avoid Formula 3 ("Most [titles] say the same thing") —
+it is now a recognizable AI pattern. Use Direct Question instead.
 ```
 
 ### Which Outcome Formula?
 ```
-Solution is new — needs to be pictured first?
-├── YES → Formula A (Imagine If)
+Solution simple enough to state as fact?
+├── YES → Formula F (Just Say What You Do) — PREFERRED
 └── NO
-    Prospect stuck in a manual loop?
-    ├── YES → Formula B (What If)
+    Solution is new — needs to be pictured first?
+    ├── YES → Formula A (Imagine If)
     └── NO
-        Contrast between now and after is sharp?
+        Prospect stuck in a manual loop?
+        ├── YES → Formula B (What If) — use sparingly, becoming overused
+        └── NO
         ├── YES → Formula E (Before and After)
         └── NO → Formula C (Direct Outcome)
 ```

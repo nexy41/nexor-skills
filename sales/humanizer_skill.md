@@ -86,6 +86,7 @@ dynamic · proactive
 | "At this point in time" | "now" |
 | "With regard to" | "about" |
 | "Looking forward to hearing your thoughts" | replace with a clear next step |
+| "Most [Titles] I speak to say the same thing" | Use a direct question instead. This is now one of the most common AI cold email openers. |
 
 **Also check for Nexor writing rule violations:**
 - "very", "really", "actually", "basically", "literally" → remove
@@ -110,6 +111,8 @@ dynamic · proactive
 | 10 | **Generic conclusion** | "The future looks bright." | End with a specific fact or action. |
 | 11 | **Excessive hedging** | "could potentially possibly perhaps" | Pick one or drop them all. |
 | 12 | **Formulaic challenge** | "Despite challenges, X continues to thrive." | Say what the actual challenge is. |
+| 13 | **Template Fatigue (Structural Predictability)** | Email perfectly follows the 5-part AI skeleton and looks visually identical to every other AI email | Use a Pattern-Breaker formula (abrupt observation, skip the build-up) to break the rhythm. |
+| 14 | **Constructed Benefit Sentence** | "the repetitive sessions your team runs every time someone new starts on site" — a sentence that exists only to paint a picture of the solution working | Cut it. Say "the repetitive stuff" or "things like that." If a sentence exists to sell, not inform, delete it. |
 
 ---
 

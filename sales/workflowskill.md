@@ -271,6 +271,19 @@ Maverick spend is the highest financial risk and easiest to quantify. Missing GR
 
 ---
 
+## TRIGGER EVENT MATRIX (Precision Targeting)
+
+Do not just use titles; search for "hidden problems" indicated by public trigger events before sending outreach. If a trigger event exists, tie the pain point directly to it.
+
+| Trigger Event | Where to Find It | What It Means (Hidden Problem) | Outreach Angle |
+|---|---|---|---|
+| **Recent Funding/Expansion** | News, LinkedIn | Rapid hiring = broken onboarding and approval bottlenecks. | "As you double headcount this year, manual onboarding in HR will break." |
+| **New C-Level Hire (e.g., new CPO/CFO)** | LinkedIn | Mandate to fix controls and compliance within first 90 days. | "New leaders usually inherit undocumented approval chains in WhatsApp." |
+| **New Software Implementation** | Job Postings | Integration headaches and adoption resistance. | "Most teams don't want to learn the new system; AI bridges the gap." |
+| **Recent M&A** | News | Merging two different sets of manual processes. | "Aligning two different manual workflows takes months. Let AI standardize it." |
+
+---
+
 ## MALAYSIAN MARKET HOOKS
 
 | Hook | How to Use |
