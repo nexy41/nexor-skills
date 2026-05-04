@@ -59,7 +59,7 @@ A Director of Training reads the first line and decides in 2 seconds.
 Collect all 4 data points before writing. If missing, ask.
 
 | # | Data Point | What to Collect |
-|---|---|---|
+|---|---|
 | 1 | Prospect name + exact title | From LinkedIn or user input |
 | 2 | Company name + industry + headcount | From company website or LinkedIn |
 | 3 | Company context | Recent news, expansion, hiring, LinkedIn posts, tech stack |
@@ -382,15 +382,15 @@ Calendly · "15-minute call" · "Can we schedule" · "Let me know when free" · 
 Run all 15 checks. Fix every failure before proceeding.
 
 ```
-[ ] 1.  GREETING — warm, tone-appropriate, before the hook
-[ ] 2.  PREVIEW TEXT — first sentence specific, no generic opener
-[ ] 3.  RESEARCH PROOF — hook names something specific to this person
-[ ] 4.  BODY LENGTH — max 3 sentences after hook
-[ ] 5.  KPI PRESENT — concrete outcome that can be pictured
-[ ] 6.  AI NAMED — word "AI" appears at least once
-[ ] 7.  THREE HUMAN KEEPS — outcome shows human keeps judgment
-[ ] 8.  HRDC LINE — HRD Corp certified + delivery mode included
-[ ] 9.  CTA — under 5 seconds to act on
+[ ] 1. GREETING — warm, tone-appropriate, before the hook
+[ ] 2. PREVIEW TEXT — first sentence specific, no generic opener
+[ ] 3. RESEARCH PROOF — hook names something specific to this person
+[ ] 4. BODY LENGTH — max 3 sentences after hook
+[ ] 5. KPI PRESENT — concrete outcome that can be pictured
+[ ] 6. AI NAMED — word "AI" appears at least once
+[ ] 7. THREE HUMAN KEEPS — outcome shows human keeps judgment
+[ ] 8. HRDC LINE — HRD Corp certified + delivery mode included
+[ ] 9. CTA — under 5 seconds to act on
 [ ] 10. WORD COUNT — 55–65 words including subject line
 [ ] 11. VOICE — zero passive voice, active only
 [ ] 12. LANGUAGE — 5th grade reading level, plain English
