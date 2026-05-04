@@ -471,6 +471,17 @@ If rewriting — include a "What Changed" table after the email.
 
 ---
 
+## ⚠️ DATA PRIVACY RULE — NEVER STORE REAL PERSONAL INFORMATION
+
+**Rules for all examples:**
+1. Use placeholder names like `[PROSPECT NAME]` or fictional names only
+2. Never use real LinkedIn profiles, company data, or job titles from actual people
+3. If you need real examples, get explicit consent AND store externally (Notion/Docs), NOT in code repos
+4. Template files should be clearly named `template-*` with warnings
+5. Real prospect data belongs in secure CRM systems, never in Git repos
+
+---
+
 ## WORKED EXAMPLES
 
 ### Example 1 — Roslina Hamzah (constructed style, still passes)
@@ -545,9 +556,15 @@ When the prospect IS the training expert — do not pitch training. Pivot to the
 
 ---
 
-### Example 3 — Lily Sabrina Kuang Abdullah (CPO, GLC, controls focus)
+### Example 3 — CPO Template (Governance Controls Focus)
 
-**Prospect:** Lily Sabrina Kuang Abdullah · Chief People Officer · Takaful Malaysia · 500+ staff · Takaful/Insurance
+**Prospect:** [PROSPECT NAME] · Chief People Officer / People Architect · [COMPANY NAME] · [EMPLOYEE COUNT]+ staff · [INDUSTRY]
+
+⚠️ **IMPORTANT:** This example uses placeholder data only. Never store real names, positions, or company data from public profiles in code repositories.
+
+```markdown
+# Outreach Template: { prospect_name }
+⚠️ TEMPLATE ONLY — Replace all bracketed placeholders before actual use
 
 ```
 Subject: Controls gap at Takaful Malaysia's HR
