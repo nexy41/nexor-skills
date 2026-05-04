@@ -115,18 +115,18 @@ Select in this order:
 2. Hook formula → based on data available (see decision tree)
 3. Outcome formula → match to pain angle
 4. KPI example → from KPI bank, must be picturable
-5. HRDC line → match delivery mode to company type
-6. CTA → default to "Reply yes if this is worth a look"
+5. HRDC line → match delivery mode to company type (default to ultra-short)
+6. CTA → default to "Let me know if it's useful."
 
 ### PHASE 4 — WRITE
 
-Follow the 5-part skeleton:
+**KILL THE 5-PART SKELETON.**
+Use the new paradigm: Blunt + One Human Touch. Do not write a "pain bridge".
+
 ```
-[Greeting] [Name],
-[Hook — 1 sentence]
-[Pain bridge — 1 sentence]
-[Outcome — 1–2 sentences, AI named, human keeps judgment]
-[HRDC + delivery — 1 sentence, natural continuation]
+[Name],
+[One line of real context OR human hedge] + [Direct Question or Blunt statement of what we do]
+[Friction Remover — ultra short]
 [Soft CTA]
 — [Name], Nexor AI
 ```

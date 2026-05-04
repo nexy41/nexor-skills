@@ -111,7 +111,7 @@ dynamic · proactive
 | 10 | **Generic conclusion** | "The future looks bright." | End with a specific fact or action. |
 | 11 | **Excessive hedging** | "could potentially possibly perhaps" | Pick one or drop them all. |
 | 12 | **Formulaic challenge** | "Despite challenges, X continues to thrive." | Say what the actual challenge is. |
-| 13 | **Template Fatigue (Structural Predictability)** | Email perfectly follows the 5-part AI skeleton and looks visually identical to every other AI email | Use a Pattern-Breaker formula (abrupt observation, skip the build-up) to break the rhythm. |
+| 13 | **Template Fatigue (Structural Predictability)** | Email follows the old, rigid 'Hook -> Pain -> Solution -> Friction -> CTA' shape. It looks visually identical to every other AI email | Kill the 5-part skeleton. Use the "Blunt + One Human Touch" structure instead. Drop the pain bridge. |
 | 14 | **Constructed Benefit Sentence** | "the repetitive sessions your team runs every time someone new starts on site" — a sentence that exists only to paint a picture of the solution working | Cut it. Say "the repetitive stuff" or "things like that." If a sentence exists to sell, not inform, delete it. |
 
 ---

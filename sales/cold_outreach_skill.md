@@ -87,25 +87,20 @@ If company context reveals a trigger — tie the pain to that trigger.
 
 ### STEP 3 — BUILD THE EMAIL STRUCTURE
 
-Every email follows one of these structures. To avoid "pattern saturation" (where prospects subconsciously recognize the AI skeleton), you must vary between the Standard Skeleton and the Pattern-Breaker.
+**KILL THE 5-PART SKELETON.**
+The old structure (Hook → Pain → Outcome → Friction Remover → CTA) is exactly what causes "Template Fatigue." When thousands of senders generate variations of the exact same 5-part shape daily, it creates pattern saturation. 
 
-**Option A: The Standard Skeleton (Use 70% of the time)**
-```
-PART 1 — SCROLL-STOPPER HOOK
-PART 2 — PAIN BRIDGE
-PART 3 — OUTCOME STATEMENT
-PART 4 — FRICTION REMOVER (HRDC + Delivery)
-PART 5 — SOFT CTA
-```
+**THE NEW PARADIGM: Blunt + One Human Touch**
+An email fails if it's too polished (AI slop) OR too cold (transactional). The sweet spot is bluntness combined with exactly ONE human touch (a hedge, a real reference, or a warm CTA). Never more than one.
 
-**Option B: The Pattern-Breaker (Use 30% of the time)**
+**Structure Guideline:**
 ```
-PART 1 — ABRUPT OBSERVATION (A stark, one-sentence truth about their specific job)
-PART 2 — OUTCOME LEADING (Show the AI solving it before fully explaining the pain)
-PART 3 — FRICTION REMOVER
-PART 4 — SOFT CTA
+[Name],
+[One line of real context OR human hedge] + [Direct Question or Blunt statement of what we do]
+[Friction Remover]
+[Soft CTA]
 ```
-*Why Pattern-Break?* AI tools have standardized writing. When thousands of senders generate variations of the same 5-part shape daily, it creates pattern saturation. To stand out, occasionally break the visual and structural rhythm.
+*Why this works:* Real people don't write neat paragraphs doing separate jobs. They just say what they want. Drop the "Pain bridge" entirely. If the hook is right, the pain is implied.
 
 ---
 
